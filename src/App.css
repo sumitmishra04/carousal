@@ -1,0 +1,11 @@
+.select{
+    width: 200px;
+    height: 40px;
+     text-transform: capitalize;
+     font-size: 18px;
+    color: coral;
+    border: 1px solid #d4a8a8;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.5);
+    margin-bottom: 20px;
+    outline: none;
+}
