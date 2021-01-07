@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Carousel from './Carousel/Carousel';
 import carouselItems from "./carouseldata";
 import "./App.css"
-import Test from './test';
 class App extends Component {
   state = {
     categories: [],
